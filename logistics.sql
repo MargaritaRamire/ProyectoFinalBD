@@ -168,6 +168,7 @@ GO
 SET IDENTITY_INSERT [logistics].[tbl_delivery_guides] OFF
 GO
 
+-- ESTO ES UNA PRUEBA
 
 -- ----------------------------
 -- Table structure for tbl_delivery_statuses
