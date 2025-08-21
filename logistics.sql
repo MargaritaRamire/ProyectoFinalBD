@@ -169,6 +169,8 @@ SET IDENTITY_INSERT [logistics].[tbl_delivery_guides] OFF
 GO
 
 -- ESTO ES UNA PRUEBA
+-- ESTO ES UNA SEGUNDA PRUEBA
+-- ESTO ES UNA TERCERA PRUEBA
 
 -- ----------------------------
 -- Table structure for tbl_delivery_statuses
