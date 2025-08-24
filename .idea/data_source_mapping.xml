@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/02468894-b674-4d5a-bce8-2dac7df7b01b/console.sql" value="02468894-b674-4d5a-bce8-2dac7df7b01b" />
+    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/Eddy/Procedimientos.sql" value="02468894-b674-4d5a-bce8-2dac7df7b01b" />
     <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/Susana/procedimientos_almacenados.sql" value="02468894-b674-4d5a-bce8-2dac7df7b01b" />
     <file url="file://$PROJECT_DIR$/ScriptDB.sql" value="02468894-b674-4d5a-bce8-2dac7df7b01b" />
   </component>
