@@ -363,3 +363,13 @@ ALTER TABLE `tbl_routes`
     ON DELETE RESTRICT ON UPDATE RESTRICT;
 
 SET FOREIGN_KEY_CHECKS = 1;
+
+-- ------------------------------ALTER TABLES --------------------------------
+-- ALTER TABLE PARA tbl_delivery_statuses --
+ALTER TABLE logistics.tbl_delivery_statuses
+ADD status BIT DEFAULT 1;
+
+ALTER TABLE tbl_delivery_assignments
+ADD COLUMN status TINYINT(1) NULL DEFAULT 1 AFTER assignment_date,
+ADD COLUMN created_at DATETIME NULL DEFAULT CURRENT_TIMESTAMP AFTER status,
+ADD COLUMN updated_at DATETIME NULL AFTER created_at;
