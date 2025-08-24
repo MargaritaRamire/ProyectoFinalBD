@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33037b4e-9689-4a20-80cb-e0fde0a4e04c" name="Changes" comment="Creacion de query para insertar en la tabla deliveries con los procedimientos almacenados">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Abner/procedimiento_almacenados_tbl_delivery_statuses.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Abner/query_insert.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/HEYDI/procedimientos almacenados tbl_delivery_guides.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/script_registros.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/sp_delivery_assignments_delete.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/sp_delivery_assignments_get_all.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/sp_delivery_assignments_get_by_id.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/sp_delivery_assignments_insert.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procedimientos Almacenados/Williams/sp_delivery_assignments_update.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expenses y roles.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procedimientos Almacenados/Abner/prueba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptDB.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging Katy",
+    "git-widget-placeholder": "Katy",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/janne"
   },
