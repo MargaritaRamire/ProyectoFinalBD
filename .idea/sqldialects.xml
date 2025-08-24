@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/KATY/Procedimientos almacenados deliveries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/Procediemientos almancenados deliveries.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/query insert.sql" dialect="MySQL" />
   </component>

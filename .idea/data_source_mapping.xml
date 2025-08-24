@@ -2,7 +2,6 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/1e698e70-0a42-4049-a63d-15e6c9a9e37e/console.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
-    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/KATY/Procedimientos almacenados deliveries.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
     <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/Procediemientos almancenados deliveries.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
     <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/query insert.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
   </component>
