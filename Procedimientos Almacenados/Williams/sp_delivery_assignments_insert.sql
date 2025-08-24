@@ -1,9 +1,3 @@
-ALTER TABLE tbl_delivery_assignments
-ADD COLUMN status TINYINT(1) NULL DEFAULT 1 AFTER assignment_date,
-ADD COLUMN created_at DATETIME NULL DEFAULT CURRENT_TIMESTAMP AFTER status,
-ADD COLUMN updated_at DATETIME NULL AFTER created_at;
-
-
 DELIMITER //
 
 CREATE PROCEDURE sp_delivery_assignments_insert (
