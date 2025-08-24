@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c52203b2-6309-4fdc-93d1-f801f75b643f/console.sql" value="c52203b2-6309-4fdc-93d1-f801f75b643f" />
-    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/Javier/ProcedureMaintenences.sql" value="c52203b2-6309-4fdc-93d1-f801f75b643f" />
-    <file url="file://$PROJECT_DIR$/ScriptDB.sql" value="c52203b2-6309-4fdc-93d1-f801f75b643f" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/09e1ace5-a90f-4a93-ae8a-0070ddf4991a/console.sql" value="09e1ace5-a90f-4a93-ae8a-0070ddf4991a" />
+    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/Yeiner/tbl_departaments/Procedimientos.sql" value="09e1ace5-a90f-4a93-ae8a-0070ddf4991a" />
+    <file url="file://$PROJECT_DIR$/ScriptDB.sql" value="09e1ace5-a90f-4a93-ae8a-0070ddf4991a" />
   </component>
 </project>
