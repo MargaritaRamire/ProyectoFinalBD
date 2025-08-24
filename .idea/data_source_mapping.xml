@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/1e698e70-0a42-4049-a63d-15e6c9a9e37e/console.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
-    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/KATY/Procedimientos almacenados deliveries.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
-    <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/Procediemientos almancenados deliveries.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
-    <file url="file://$PROJECT_DIR$/Procedimientos tabla Stateuses/KATY/query insert.sql" value="1e698e70-0a42-4049-a63d-15e6c9a9e37e" />
+    <file url="dbSrc:///5c523b33/b52816f0-e52a-4c25-975e-55884bd331ef/schema/logistics/routine/sp_tbl_customers_delete@(int)P.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="dbSrc:///5c523b33/b52816f0-e52a-4c25-975e-55884bd331ef/schema/logistics/routine/sp_tbl_customers_get_all@()P.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="dbSrc:///5c523b33/b52816f0-e52a-4c25-975e-55884bd331ef/schema/logistics/routine/sp_tbl_customers_get_by_id@(int)P.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="dbSrc:///5c523b33/b52816f0-e52a-4c25-975e-55884bd331ef/schema/logistics/routine/sp_tbl_customers_insert@(varchar(150),varchar(20),varchar(20),varchar(100),text,int)P.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="dbSrc:///5c523b33/b52816f0-e52a-4c25-975e-55884bd331ef/schema/logistics/routine/sp_tbl_customers_update@(int,varchar(150),varchar(20),varchar(20),varchar(100),text,int,tinyint)P.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b52816f0-e52a-4c25-975e-55884bd331ef/console.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b52816f0-e52a-4c25-975e-55884bd331ef/console_1.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b52816f0-e52a-4c25-975e-55884bd331ef/console_2.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b52816f0-e52a-4c25-975e-55884bd331ef/console_3.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b52816f0-e52a-4c25-975e-55884bd331ef/console_4.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$PROJECT_DIR$/Procedimientos Almacenados/Andre-procedimientos tabla customers/query_insert.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
+    <file url="file://$PROJECT_DIR$/logistics.sql" value="b52816f0-e52a-4c25-975e-55884bd331ef" />
   </component>
 </project>
