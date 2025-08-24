@@ -366,7 +366,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 -- ------------------------------ALTER TABLES --------------------------------
 -- ALTER TABLE PARA tbl_delivery_statuses --
-ALTER TABLE logistics.tbl_delivery_statuses
+ALTER TABLE tbl_delivery_statuses
 ADD status BIT DEFAULT 1;
 
 ALTER TABLE tbl_delivery_assignments
