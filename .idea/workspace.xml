@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33037b4e-9689-4a20-80cb-e0fde0a4e04c" name="Changes" comment="Creacion de query para insertar en la tabla deliveries con los procedimientos almacenados">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+    <list default="true" id="33037b4e-9689-4a20-80cb-e0fde0a4e04c" name="Changes" comment="katy creación de vista en deliveries.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procedimientos Almacenados/KATY/Procedimientos almacenados deliveries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Procedimientos Almacenados/KATY/Procedimientos almacenados deliveries.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +28,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Katy",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/janne"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Katy&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/janne&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="33037b4e-9689-4a20-80cb-e0fde0a4e04c" name="Changes" comment="" />
@@ -59,6 +55,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion de query para insertar en la tabla deliveries con los procedimientos almacenados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de query para insertar en la tabla deliveries con los procedimientos almacenados" />
+    <MESSAGE value="katy creación de vista en deliveries." />
+    <option name="LAST_COMMIT_MESSAGE" value="katy creación de vista en deliveries." />
   </component>
 </project>
